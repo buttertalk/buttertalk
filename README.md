@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buttertalk
 - 👀 I’m interested in cooking keto and free trips
-- 🌱 I’m currently learning JS, Git/GitBash, HTML, CSS
+- 🌱 I’m currently learning JS, Git/GitBash, HTML, CSS, Bootstrap and Java!
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me ...
 
